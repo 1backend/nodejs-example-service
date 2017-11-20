@@ -1,7 +1,7 @@
 {
-  "name": "demo-node-minimal",
+  "name": "1backend-nodejs-example-service",
   "version": "0.0.1",
-  "description": "Minimal nodejs example service for 1backend",
+  "description": "Minimal Node.js example service for 1backend",
   "main": "index.js",
   "repository": {
     "type": "git",
